@@ -1,1 +1,1 @@
-card exapnder using HTML, CSS and JavaScript
+card expander using HTML, CSS and JavaScript
